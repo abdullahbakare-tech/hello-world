@@ -10,7 +10,7 @@ function App() {
   return (
     <>
       <h1>Hello World!</h1>
-      <img src={reactLogo} />
+      <img src={reactLogo} className="reactLogo" />
     </>
   );
 }
